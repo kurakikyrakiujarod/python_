@@ -1,0 +1,6 @@
+cmd命令
+
+```
+calc 计算器 notepad 记事本 mspaint 画图板 osk 软键盘
+```
+

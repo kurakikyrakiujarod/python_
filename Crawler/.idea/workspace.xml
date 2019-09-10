@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a9d03a-612d-43a3-9482-5f2e604e99a4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/crawler$05_get2.coverage" NAME="05-get请求2 Coverage Results" MODIFIED="1551581064893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$16_requests1.coverage" NAME="16.requests的使用1 Coverage Results" MODIFIED="1551615272531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$09_https.coverage" NAME="09.https请求 Coverage Results" MODIFIED="1551611842026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$18_requests3.coverage" NAME="18.requests的使用3 Coverage Results" MODIFIED="1551615751025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$11_proxy.coverage" NAME="11.proxy的使用 Coverage Results" MODIFIED="1551612153462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$23_BeautifulSoup.coverage" NAME="23.BeautifulSoup的使用 Coverage Results" MODIFIED="1551628442413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day03" />
+    <SUITE FILE_PATH="coverage/crawler$14_cookie3.coverage" NAME="14.cookie的使用3 Coverage Results" MODIFIED="1551612796193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$17_requests2.coverage" NAME="17.requests的使用2 Coverage Results" MODIFIED="1551615408291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/Crawler$kaoyanbang_test.coverage" NAME="kaoyanbang_test Coverage Results" MODIFIED="1563357105703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作" />
+    <SUITE FILE_PATH="coverage/crawler$06_post.coverage" NAME="06-post请求 Coverage Results" MODIFIED="1551583913709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$10_opener.coverage" NAME="10.opener的使用 Coverage Results" MODIFIED="1551611887588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$16_trx_market3.coverage" NAME="16 trx_market3 Coverage Results" MODIFIED="1551613667381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/work" />
+    <SUITE FILE_PATH="coverage/crawler$06_.coverage" NAME="06-贴吧案例 Coverage Results" MODIFIED="1551583788383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$20_requests5.coverage" NAME="20.requests的使用5 Coverage Results" MODIFIED="1551616489331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$08_ajax.coverage" NAME="08.ajax请求的使用 Coverage Results" MODIFIED="1551611348034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$15_URLError.coverage" NAME="15.URLError的使用 Coverage Results" MODIFIED="1551614389957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$13_cookie2.coverage" NAME="13.cookie的使用2 Coverage Results" MODIFIED="1551612429862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$04_get1.coverage" NAME="04-get请求1 Coverage Results" MODIFIED="1551581114104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$02_Request.coverage" NAME="02-Request的使用 Coverage Results" MODIFIED="1551580087126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$12_cookie1.coverage" NAME="12.cookie的使用1 Coverage Results" MODIFIED="1551612292986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+    <SUITE FILE_PATH="coverage/crawler$03_fake_useragent.coverage" NAME="03-fake_useragent测试 Coverage Results" MODIFIED="1551580195232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day01" />
+    <SUITE FILE_PATH="coverage/crawler$19_requests4.coverage" NAME="19.requests的使用4 Coverage Results" MODIFIED="1551616171554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="kaoyanbang_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作/kaoyanbang_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-245">
+              <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+              <folding>
+                <element signature="e#48#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>百度</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day01/03-fake_useragent测试.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day01/05-get请求2.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day01/04-get请求1.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day01/第1页.html" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day01/06-贴吧案例.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/08.ajax请求的使用.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/11.proxy的使用.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/13.cookie的使用2.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/14.cookie的使用3.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/09.https请求.py" />
+        <option value="E:/work/16 trx_market3.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/16.requests的使用1.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/17.requests的使用2.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/18.requests的使用3.py" />
+        <option value="$PROJECT_DIR$/13天学会python网络爬虫/script/day03/23.BeautifulSoup的使用.py" />
+        <option value="$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作/kaoyanbang_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="550" />
+    <option name="y" value="111" />
+    <option name="width" value="640" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/1data/askparents" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.kaoyanbang_test">
+    <configuration name="18.requests的使用3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/18.requests的使用3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="19.requests的使用4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/19.requests的使用4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="20.requests的使用5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day02/20.requests的使用5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="23.BeautifulSoup的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13天学会python网络爬虫/script/day03/23.BeautifulSoup的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="kaoyanbang_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作/kaoyanbang_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.18.requests的使用3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.19.requests的使用4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.20.requests的使用5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.23.BeautifulSoup的使用" />
+      <item index="4" class="java.lang.String" itemvalue="Python.kaoyanbang_test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.kaoyanbang_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.23.BeautifulSoup的使用" />
+        <item index="2" class="java.lang.String" itemvalue="Python.20.requests的使用5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.19.requests的使用4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.18.requests的使用3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a9d03a-612d-43a3-9482-5f2e604e99a4" name="Default" comment="" />
+      <created>1551579767561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551579767561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32536975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/09.https请求.py" />
+    <entry file="file://D:/Users/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="1319" column="0" lean-forward="false" selection-start-line="1319" selection-start-column="0" selection-end-line="1319" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/01-第一个爬虫.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/02-Request的使用.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/04-get请求1.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/05-get请求2.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/03-fake_useragent测试.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/第3页.html" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/第2页.html" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/第1页.html" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/06-贴吧案例.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/07-post请求.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day01/06-post请求.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/cookie.txt" />
+    <entry file="file://E:/work/15 trx_market2.py" />
+    <entry file="file://E:/work/16 trx_market3.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/09.https请求.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/10.opener的使用.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/11.proxy的使用.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/12.cookie的使用1.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/13.cookie的使用2.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/14.cookie的使用3.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/15.URLError的使用.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/16.requests的使用1.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/17.requests的使用2.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/18.requests的使用3.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/19.requests的使用4.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/20.requests的使用5.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day02/08.ajax请求的使用.py" />
+    <entry file="file://$PROJECT_DIR$/13天学会python网络爬虫/script/day03/23.BeautifulSoup的使用.py" />
+    <entry file="file://$PROJECT_DIR$/appium控制考研帮app登录及模拟滑动操作/kaoyanbang_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="e#48#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

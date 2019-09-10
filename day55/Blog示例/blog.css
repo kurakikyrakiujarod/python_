@@ -1,0 +1,117 @@
+/*Blog页面样式*/
+
+
+/*公用样式*/
+* {
+    font-family: "Helvetica Neue","Microsoft Yahei","Hiragino Sans GB","Heiti SC",
+    "WenQuanYi Micro Hei",sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+/*去掉a标签下划线*/
+a {
+    text-decoration: none;
+}
+
+/*左边栏样式*/
+.left {
+    width: 20%;
+    height: 100%;
+    background-color: #4c4d4c;
+    position: fixed;
+    left: 0;
+    top:0;
+}
+
+/*头像样式*/
+.header-img {
+    height: 128px;
+    width: 128px;
+    border: 5px solid white;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.header-img>img {
+    max-width: 100%;
+}
+
+/*博客名称*/
+.blog-name {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/*博客介绍*/
+.blog-info {
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    margin: 5px 15px;
+}
+
+/*博客链接 标签组*/
+.blog-links,
+.blog-tags {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.blog-links a,
+.blog-tags a {
+    color: #eee;
+}
+
+.blog-tags a:before {
+    content: "#";
+}
+
+/*右边栏样式*/
+.right {
+    width: 80%;
+    height: 1000px;
+    background-color: rgb(238,237,237);
+    float: right;
+}
+
+.article-list {
+    margin-top: 30px;
+    margin-right: 10%;
+    margin-left: 30px;
+    /*background-color: white;*/
+}
+
+.aritcle-name {
+    display: inline-block;
+    /*padding: 15px;*/
+    /*border-left: 3px solid red;*/
+}
+
+.article-title {
+    padding: 15px;
+    border-left: 3px solid red;
+}
+.article-date {
+    float: right;
+}
+.article-info {
+    padding: 15px;
+}
+
+.article-tag {
+    padding: 15px 0;
+    margin: 15px;
+    border-top: 1px solid #eeeeee;
+}
+
+.article {
+    margin-bottom: 15px;
+    background-color: white;
+}

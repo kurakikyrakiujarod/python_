@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+https://github.com/jorisvandenbossche/pandas-tutorial/blob/master/data/flowdata.csv
+https://github.com/pandas-dev/pandas/blob/master/doc/data/tips.csv
+https://github.com/statsmodels/statsmodels/blob/master/statsmodels/datasets/macrodata/macrodata.csv
+game_logs.csv
+https://data.world/dataquest/mlb-game-logs
+https://pan.baidu.com/s/1oCyAXxg3IMeMf8QBX3_Cvw#4hfk
